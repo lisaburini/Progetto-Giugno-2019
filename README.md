@@ -1,6 +1,6 @@
 # Progetto Giugno 2019
->Burini Lisa: S1081527 <br>
->Cappanera Simone: S1081623
+>Burini Lisa <br>
+>Cappanera Simone
 
 ## Che cosa fa questo progetto?
 
